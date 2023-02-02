@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis
 - 👀 I’m interested in Learn Python, Django, MongoDB and other stuff
-- 🌱 I’m currently learning how to run a web server using Python
+- 🌱 I’m currently learning how to use Jenkins
 - 💞️ I’m looking to collaborate on something one day 
 - 📫 How to reach me utpplatano@gmail.com
 
