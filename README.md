@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafstyle&label=Profile%20views&color=0e75b6&style=flat" alt="grafstyle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grafstyle" alt="grafstyle" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/graf_style" target="blank"><img src="https://img.shields.io/twitter/follow/graf_style?logo=twitter&style=for-the-badge" alt="graf_style" /></a> </p>
 
 - 🌱 I’m currently learning **Python Django / Flask**
 
 - 📫 How to reach me **utpplatano@gmail.com**
 
+- ⚡ Fun fact **Deploy to prod on friday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
