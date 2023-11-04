@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-<p align="right">
+
 ###
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
 ###
@@ -35,7 +35,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
 ###
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]
-</p> 
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&locale=en" alt="grafstyle" /></p>
 
