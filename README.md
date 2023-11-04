@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Luis R</h1>
-➖
+
+✔
+
 <h3 align="left">Computer science student and DevOps enthusiastic</h3>
 
 
@@ -7,7 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-➖
+👥
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graf-style/)
 
