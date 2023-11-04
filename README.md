@@ -35,8 +35,13 @@
 <br>
 <br>
 <h4 align="left"> Driven by </h4>
+<div style="display: inline_block"><br/>
 <img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<br>
+<img align="center" alt="udemy-aws" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img align="center" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
+<img align="center" alt="coursera" src="	https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+</div>
+  <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&locale=en" alt="grafstyle" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grafstyle&" alt="grafstyle" /></p>
