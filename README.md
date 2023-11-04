@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Luis R</h1>
+<h1 align="left">Hi 👋, I'm Luis Minaya</h1>
 
 ✔
 
