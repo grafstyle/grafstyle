@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafstyle&label=Profile%20views&color=0e75b6&style=flat" alt="grafstyle" /> </p>
 
-- 🌱 I’m currently learning **Python Django / Flask**
+- 🐍 I’m currently learning **Python Django / Flask**
 
-- 📫 How to reach me **utpplatano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
