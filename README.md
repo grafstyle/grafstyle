@@ -42,6 +42,8 @@
 <img align="center" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
 </div>
   <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&locale=en" alt="grafstyle" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grafstyle&" alt="grafstyle" /></p>
+  <br>
+  <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+
