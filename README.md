@@ -27,9 +27,15 @@
 <li><img align="center" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></li>
 </ul>
 <br>
-<br>
-<h4 align="left"> Driven by </h4>
-<div style="display: inline_block"><br/>
+
+<h4 align="left"> Operating Systems </h4>
+<div style="display: inline_block">
+<img align="center" alt="debian-linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+<h4 align="left"> Operating Systems </h4>
+  
 <img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img align="center" alt="udemy-aws" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 <img align="center" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
