@@ -21,7 +21,7 @@
 
 <h3 align="left">I'm currently learning about: </h3>
 <ul>
-<li><img align="center" alt="amazon-aws" src="	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></li>
+<li><img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></li>
 </ul>
 <br>
 <br>
