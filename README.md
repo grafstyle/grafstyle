@@ -19,13 +19,12 @@
 <p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art. My aspiration is to apply my knowledge to integrate improvements and maintain continuous progress within the team of which I am a part.</p>
 <hr>
 
-<h3 align="left">I'm currently learning about: </h3>
-
+<h4 align="left">I'm currently learning about: </h4>
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img align="left" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<br>
+<hr>
 
 <h4 align="left"> Operating Systems </h4>
 <div style="display: inline_block">
