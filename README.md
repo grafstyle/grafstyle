@@ -1,9 +1,9 @@
-<h1 align="left"Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer> </h1>
+<h1 align="left"> Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer </h1>
 
 
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
-<ul><li>Python</li></ul>
+<ul><li><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></li></ul>
 
 
 - 🐍 I’m currently learning **Python Django / Flask**
