@@ -21,9 +21,9 @@
 
 
 <h3 align="left">I'm currently learning about: </h3>
-<div style="display: inline_block"><br/>
-<img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
+<ul>
+<li><img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></li>
+</ul>
 <br>
 <br>
 <h4 align="left"> Driven by </h4>
