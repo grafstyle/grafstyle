@@ -22,6 +22,13 @@
 <h3 align="left">I'm currently learning about: </h3>
 <ul>
 <li><img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></li>
+<li><img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+<li><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></li>
+<li><img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></li>
+
+
+
+
 </ul>
 <br>
 <br>
