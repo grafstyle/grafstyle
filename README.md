@@ -21,14 +21,10 @@
 
 <h3 align="left">I'm currently learning about: </h3>
 <ul>
-<li><img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></li>
 <li><img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
 <li><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></li>
 <li><img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></li>
-
-
-
-
+<li><img align="center" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></li>
 </ul>
 <br>
 <br>
@@ -44,7 +40,7 @@
  <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 <br>
 <h3 align="left">Contact Info:</h3>
-<p>Connect with me if you have any question or follow me on twitter 😄 </p>
+<p>Feel free to connect with me if you have any question or follow me on twitter 😄 </p>
 
 <div style="display: inline_block"><br/>
 <a href="https://www.linkedin.com/in/graf-style/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
