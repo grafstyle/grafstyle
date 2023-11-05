@@ -44,7 +44,6 @@
   
  <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 <br>
-<br>
 <h3 align="left">Connect with me 👥:</h3>
 <p>Get in touch with me if you have any question 😄</p>
 
