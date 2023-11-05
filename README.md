@@ -1,8 +1,9 @@
-<h1 align="left">Hi 👋, I'm Luis Minaya</h1>
+<h1 align="left"Hi 👋🏽, I’m Luis Minaya  -  Junior DevOps engineer </h1><br>
 
-✔
 
-<h3 align="left">Computer science student and DevOps enthusiastic</h3>
+<h3 align="left">Current status:</h3>
+<p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
+<ul><li>Python</li></ul>
 
 
 - 🐍 I’m currently learning **Python Django / Flask**
