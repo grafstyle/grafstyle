@@ -1,4 +1,4 @@
-<h1 align="left"Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer> </h1><br>
+<h1 align="left"Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer> </h1>
 
 
 <h3 align="left">Current status:</h3>
