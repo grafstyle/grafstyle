@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me 👥:</h3>
 
 <div style="display: inline_block"><br/>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graf-style/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
