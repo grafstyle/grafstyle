@@ -13,22 +13,15 @@
 </li>
 <li><img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </li>
-
-
 </ul>
 
+<h3>About me:</h3>
+<p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art. My aspiration is to apply my knowledge to integrate improvements and maintain continuous progress within the team of which I am a part.</p>
 
 
 
-
-<h3 align="left">Technologies I work with | Skills</h3>
+<h3 align="left">I'm currently learning about: </h3>
 <div style="display: inline_block"><br/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 <br>
@@ -44,7 +37,7 @@
   
  <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 <br>
-<h3 align="left">Social media:</h3>
+<h3 align="left">Contact Info:</h3>
 <p>Connect with me if you have any question or follow me on twitter 😄 </p>
 
 <div style="display: inline_block"><br/>
