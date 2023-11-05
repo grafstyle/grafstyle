@@ -38,12 +38,12 @@
 <h4 align="left"> Education </h4>  
 <img align="center" alt="amazon-aws" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img align="center" alt="udemy-aws" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+<br>
 <img align="center" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 <img align="center" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
 </div>
-  <br>
-  
- <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+<br>
 <br>
 <h3 align="left">Contact Info:</h3>
 <p>Feel free to connect with me if you have any question or follow me on twitter 😄 </p>
