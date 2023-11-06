@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer </h1>
 
 <h3 >About me:</h3>
-<img align="right" alt="devops" src="https://www.turing.com/blog/wp-content/uploads/2022/08/6-Best-DevOps-Practices-to-Know-scaled.jpg" width="300" height="250"/>
+<img align="right" alt="devops" src="hhttps://cdni.iconscout.com/illustration/premium/thumb/devops-5756365-4812397.pngg" width="300" height="250"/>
 
 <p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
 
