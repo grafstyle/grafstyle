@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Current status:</h3>
-<div style="display:flex"><div><p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p></div>
+<div style="display:inline_block"><div><p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p></div>
 <div>
 <ul><li><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></li>
 <li><img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></li>
