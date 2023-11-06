@@ -44,8 +44,8 @@
 
 <h4 align="left">📊 Github Stats</h4>
 <div style="display: inline">
-<img style="flex:1;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="380" height="380">
-<img style="flex:1;" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="380" height="250"">
+<img style="flex:1;" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="380" height="380">
+<img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="380" height="250"">
 </div>
 <br>
 <br>
