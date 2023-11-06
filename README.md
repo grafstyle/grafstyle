@@ -1,12 +1,10 @@
 <h1 align="left"> Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer </h1>
 
-
 <h3 >About me:</h3>
-<div style="display:inline_block"><div style="display:grid"><p style="text-align:left">I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
+<div style="display:flex;"><p style="flex: 1;">I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
+
+<img style="flex: 1;" align="right" alt="devops" src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png" width="250" height="200"/>
 </div>
-<div style="display:grid">
-<img align="right" alt="devops" src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png" width="250" height="200"/>
-</div></div>
 
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
