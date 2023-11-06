@@ -40,7 +40,7 @@
 <a href="https://www.freecodecamp.org"><img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
   </div>
 <br>
-
+<p>_____________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
 <div style="display: block">
