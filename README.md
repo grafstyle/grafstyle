@@ -43,8 +43,8 @@
 
 
 <h4 align="left">📊 Github Stats</h4>
-<div style="display: block">
-<img style="flex:1;" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="380" height="500">
+<div style="display: flex">
+<img style="flex:1;" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="400" height="500">
 <img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="380" height="200">
 </div>
 <br>
