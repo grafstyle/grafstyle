@@ -1,6 +1,11 @@
 <h1 align="left"> Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer </h1>
 
 
+<h3 >About me:</h3>
+<p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art. My aspiration is to apply my knowledge to integrate improvements and maintain continuous progress within the team of which I am a part.</p>
+<hr>
+
+
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
 <ul><li><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></li>
@@ -15,9 +20,7 @@
 </li>
 </ul>
 
-<h3 >About me:</h3>
-<p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art. My aspiration is to apply my knowledge to integrate improvements and maintain continuous progress within the team of which I am a part.</p>
-<hr>
+
 
 <h4 align="left">I'm currently learning about: </h4>
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
