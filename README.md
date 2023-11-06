@@ -43,8 +43,8 @@
 
 
 <h4 align="left">📊 Github Stats</h4>
-<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="300" height="300">
-<img align="left" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="500" height="500"">
+<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="500" height="500">
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="300" height="300"">
 
 <br>
 <br>
