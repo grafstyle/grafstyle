@@ -31,7 +31,6 @@
 <a href="https://expressjs.com/es/"><img style="flex:1;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </div>
   <br>
-  <br>
 <h4 align="left">⭐ Learning platforms: </h4>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
   <div style="display: block">
