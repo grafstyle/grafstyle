@@ -47,10 +47,10 @@
 
 <h4 align="left">📊 Github Stats</h4>
 <div style="display:flex; flex:auto;">
-  <div align="auto">
+  <div style="flex:1;">
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
   </div>
-  <div align="auto">
+  <div style="flex:1;">
 <img align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafstyle&layout=compact&theme=tokyonight" width="300" height="400"/>
 </div>
 </div>
