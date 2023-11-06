@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<p>__________________________________________________________________________________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________________________</p>
 <br>
 <h4 align="left">📖 Learning path: </h4>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
@@ -48,7 +48,7 @@
 <h4 align="left">📊 Github Stats</h4>
 <div style="display: block">
 <img style="flex:1;" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-<img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="200" height="200" />
+<img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="300" height="200" />
 </div>
 <br>
 <br>
