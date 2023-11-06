@@ -2,9 +2,9 @@
 
 <h3 >About me:</h3>
 <div style="display:flex;"><p style="flex: 1;">I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
-
-<img style="flex: 1;" align="right" alt="devops" src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png" width="250" height="200"/>
-</div>
+<div style="flex: 1;">
+<img align="right" alt="devops" src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png" width="250" height="200"/>
+</div></div>
 
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
