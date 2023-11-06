@@ -28,6 +28,7 @@
 <a href="https://docs.djangoproject.com/en/4.2/"><img style="flex:1;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img style="flex:1;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a href="https://expressjs.com/es/"><img style="flex:1;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+</div>
   <br>
   <br>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
@@ -43,11 +44,10 @@
 
 
 
-
 <h4 align="left">📊 Github Stats</h4>
 <img align="left" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="300" height="300"">
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="300" height="500">
-</div>
+
 <br>
 <br>
 <h3 align="left">Contact Info:</h3>
