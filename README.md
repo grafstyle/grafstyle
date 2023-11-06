@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<p>_______________________________________________________________________________________________________________________________________________</p>
+<p>__________________________________________________________________________________________________________________________________________________</p>
 <br>
 <h4 align="left">📖 Learning path: </h4>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
@@ -38,17 +38,17 @@
 <a href="https://www.coursera.org"><img style="flex:1;" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
 <a href="https://www.udacity.com"><img style="flex:1;"" alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
 "></a>
-<a href="https://www.youtube.com"><img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+<a href="https://www.freecodecamp.org"><img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
   </div>
-<a href="https://www.freecodecamp.org"><img style="flex:1;" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com"><img style="flex:1;" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   </div>
 <br>
-<p>______________________________________________________________________________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
 <div style="display: block">
 <img style="flex:1;" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-<img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="400" height="200" />
+<img style="flex:1;" align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="200" height="200" />
 </div>
 <br>
 <br>
