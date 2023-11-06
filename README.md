@@ -37,24 +37,17 @@
 <a href="https://www.udacity.com"><img style="flex:1;"" alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
 "></a>
 <a href="https://www.freecodecamp.org"><img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
-
+  </div>
 <br>
 <br>
 
 
-<h4 align="left"> Operating Systems </h4>
-<div style="display: inline_block">
-<img align="left" alt="debian-linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-<img align="left" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div><br><br>
+
 
 <h4 align="left">📊 Github Stats</h4>
-<img alig="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
-</div>
 <div style="display:inline_block">
-<img alig="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
-</div>
+<img alig="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight width="150" height="150"">
+<img alig="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="150" height="150">
 </div>
 <br>
 <br>
@@ -65,5 +58,12 @@
 <a href="https://www.linkedin.com/in/graf-style/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/graf_style"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/graf_style/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<h4 align="left"> Operating Systems </h4>
+<div style="display: inline_block">
+<img align="left" alt="debian-linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="left" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div><br><br>
 
 
