@@ -47,7 +47,7 @@
 <h4 align="left">📊 Github Stats</h4>
 <div style="display:inline_block">
 <img alig="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="300" height="300"">
-<img alig="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="300" height="300">
+<img alig="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" width="300" height="500">
 </div>
 <br>
 <br>
