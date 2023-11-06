@@ -24,18 +24,19 @@
 <h4 align="left">📖 Learning path: </h4>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
 <div style="display: block">
-<img style="flex:1;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img style="flex:1;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-<img style="flex:1;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<a href="https://react.dev"><img style="flex:1;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://docs.djangoproject.com/en/4.2/"><img style="flex:1;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img style="flex:1;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a href="https://expressjs.com/es/"><img style="flex:1;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <br>
   <br>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
   <div style="display: block">
-<img style="flex:1;" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-<img style="flex:1;" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
-<img style="flex:1;"" alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
-">
-<img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
+<a href="https://www.udemy.com"><img style="flex:1;" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+<a href="https://www.coursera.org"><img style="flex:1;" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
+<a href="https://www.udacity.com"><img style="flex:1;"" alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
+"></a>
+<a href="https://www.freecodecamp.org"><img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
 
 <br>
 <br>
