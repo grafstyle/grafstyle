@@ -2,8 +2,8 @@
 
 
 <h3 >About me:</h3>
-<p aling="left">I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
-<hr>
+<div style="display:inline_block"><div style="aling:left"><p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
+<hr></div>
 
 
 <h3 align="left">Current status:</h3>
@@ -19,7 +19,7 @@
 <li><img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </li>
 </ul>
-
+</div>
 
 
 <h4 align="left">I'm currently learning about: </h4>
