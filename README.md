@@ -28,6 +28,13 @@
 <img style="flex:1;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 <img style="flex:1;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img style="flex:1;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<p>I highly recommend this platforms if you want to learn more about programming:</p>
+  <div style="display: block">
+<img style="flex:1;" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img style="flex:1;" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+<img style="flex:1;"" alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
+">
+<img style="flex:1;" alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 
 <br>
 <br>
