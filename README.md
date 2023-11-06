@@ -3,9 +3,9 @@
 
 <h3 >About me:</h3>
 <div style="display:inline_block"><div align="left"><p style="text-align:left">I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
-<hr></div>
+</div>
 <div>
-<img align="right" alt="devops" src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png"/>
+<img align="right" alt="devops" src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png"/>
 </div></div>
 
 <h3 align="left">Current status:</h3>
