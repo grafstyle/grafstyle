@@ -46,7 +46,7 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
-<div style="display:block;">
+<div style="display:inline_flex;">
 <img align="center" style="flex:2;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
 <img align="center" style="flex:2;" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafstyle&layout=compact&theme=tokyonight" width="300" height="400"/>
 </div>
