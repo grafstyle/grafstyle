@@ -22,7 +22,7 @@
 
 
 <h4 align="left">📖 Learning path: </h4>
-<p><b>Dev</b> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
+<p><b><i>Dev</i></b> in <b><i>DevOps</i></b> Stands for developer so, I'm currently learning about this technologies:</p>
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
