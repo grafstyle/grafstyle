@@ -4,9 +4,9 @@
 <img align="right" alt="devops" src="https://cdni.iconscout.com/illustration/premium/thumb/devops-5756365-4812397.png" width="380" height="320"/>
 
 <p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
-
-<p>____________________________________________________</p>
-
+<br>
+<p>________________________________________________________________________________________________________</p>
+<br>
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
 <div style="display: block">
