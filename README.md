@@ -11,7 +11,7 @@
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
 <div style="display: flex">
 <img style="flex:1;" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img style="flex:1;"" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img style="flex:1;" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img style="flex:1;" alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img style="flex:1;" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img style="flex:1;" alt="amazon-aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -46,7 +46,7 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
-<div style="display: block">
+<div style="display: flex">
   <div style="flex:1;" align="left">
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
   </div>
