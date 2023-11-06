@@ -47,8 +47,12 @@
 
 <h4 align="left">📊 Github Stats</h4>
 <div style="display: block">
-<img style="flex:1;" align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
-<img style="flex:1;" align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafstyle&layout=compact&theme=tokyonight" width="300" height="400" />
+  <div style="flex:1;">
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
+  </div>
+  <div style="flex:1;" >
+<img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafstyle&layout=compact&theme=tokyonight" width="300" height="400" />
+</div>
 </div>
 <br>
 <br>
