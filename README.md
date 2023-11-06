@@ -46,7 +46,7 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
-<div style="display:inline-block;">
+<div style="display:flex; flex:auto;">
   <div align="left">
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=tokyonight"/>
   </div>
