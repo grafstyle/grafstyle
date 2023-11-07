@@ -26,10 +26,10 @@
 <h4 align="left">📖 Learning path: </h4>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
 <div style="display: grid">
-<a href="https://react.dev"><img style="grid: auto-flow;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<a href="https://docs.djangoproject.com/en/4.2/"><img style="grid: auto-flow;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img style="grid: auto-flow;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-<a href="https://expressjs.com/es/"><img style="grid: auto-flow;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a href="https://react.dev"><img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://docs.djangoproject.com/en/4.2/"><img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a href="https://expressjs.com/es/"><img align="left" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </div>
   <br>
   <br>
