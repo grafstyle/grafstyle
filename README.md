@@ -23,7 +23,7 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 <br>
 <img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=none" width="400" height="350"/>
-<h4 align="left">📖 Learning path: </h4>
+<h3 align="left">📖 Learning path: </h3>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
 <div>
 <a href="https://react.dev"><img style="display:grid;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
@@ -33,7 +33,9 @@
 </div>
   <br>
   <br>
-<h3 align="left">⭐ Learning platforms: </h3>
+  <br>
+  <br>
+<h4 align="left">⭐ Learning platforms: </h4>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
 <br>
 <div style="display: block">
