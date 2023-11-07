@@ -35,6 +35,7 @@
   <br>
 <h4 align="left">⭐ Learning platforms: </h4>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
+<br>
   <div style="display: block">
 <a href="https://www.udemy.com"><img style="flex:1;" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 <a href="https://www.coursera.org"><img style="flex:1;" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
