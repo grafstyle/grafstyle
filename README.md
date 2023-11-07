@@ -25,7 +25,7 @@
 <img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=none" width="400" height="350"/>
 <h3 align="left">📖 Learning path: </h3>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
-<div style="display:grid; flex-direction: column;">
+<div style="display:flex; flex-direction: column;">
 <a href="https://react.dev"><img style="flex:1;" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="https://docs.djangoproject.com/en/4.2/"><img style="flex:1;" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img style="flex:1;" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
