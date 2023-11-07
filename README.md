@@ -50,7 +50,7 @@
 
 <h3 align="left">📊 Github Stats & Contact Info</h3>
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none""/>
-<p>Feel free to connect with me if you have any question or follow me on twitter 😄 </p>
+<p>Feel free to connect with me in LinkedIn if you have any questions.<br>If you want to see a lit bit of my Art💖 go to my instagram or follow me on twitter I'll show you some memes 😄 </p>
 
 <div style="display: inline_block"><br/>
 <a href="https://www.linkedin.com/in/graf-style/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
