@@ -50,13 +50,12 @@ d<h1 align="left"> Hi 👋🏽, I’m Luis Minaya - Junior DevOps engineer </h1>
 
 <h3 align="center"> ‎ ‎ ‎ ‎ ‎ Contact Info‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Github Stats</h3>
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none""/>
-<p><i>Feel free to connect with me in LinkedIn if you have any questions</i>.<br>If you want to see a lit bit of my Art💖 go to my instagram or follow me on twitter I'll show you some memes 😄 </p>
-<h4>(☞ﾟヮﾟ)☞</h4>
+<p><i>Feel free to connect with me in LinkedIn if you have any questions</i>.<br>If you want to see a lit bit of my Art💖 go to my instagram or follow me on twitter I'll show you some memes ( ͡• ͜ʖ ͡• ) </p>
 <div style="display: inline_block"><br/>
 <a href="https://www.linkedin.com/in/graf-style/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/graf_style"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/graf_style/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+<p>_________________________________________________________________________________________________________________________________________________</p>
 <img align="right" alt="debian-linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img align="right" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img align="right" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
