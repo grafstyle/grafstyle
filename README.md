@@ -52,8 +52,8 @@
 <p><i>Feel free to connect with me in LinkedIn if you have any questions</i>.<br>If you want to see a lit bit of my Art💖 go to my instagram or follow me on twitter I'll show you some memes ( ͡• ͜ʖ ͡• ) </p>
 <p> </p>
 <hr>
-<br>
-<br>
+<p> </p>
+<p> </p>
 
 <a href="https://www.linkedin.com/in/graf-style/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/graf_style"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
