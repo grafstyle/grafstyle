@@ -22,7 +22,7 @@
 
 <p>_________________________________________________________________________________________________________________________________________________</p>
 <br>
-<img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=none" width="380" height="320"/>
+<img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafstyle&layout=donut-vertical&theme=none" width="380" height="320"/>
 <h3 align="left">📖 Learning path: </h3>
 <p><i>Dev</i> in <i>DevOps</i> Stands for developer so, I'm currently learning about this technologies:</p>
 <div>
