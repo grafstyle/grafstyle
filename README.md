@@ -32,9 +32,7 @@
 <a href="https://expressjs.com/es/"><img style="display:grid;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </div>
   <br>
-  <br>
-  <p>_________________________________________________________________________</p>
-  <br>
+  <p>__________________________________________________________________________</p>
   <br>
 <h3 align="left">⭐ Learning platforms: </h3>
 <p>I highly recommend this platforms if you want to learn more about programming:</p>
