@@ -49,7 +49,7 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="left">📊 Github Stats & Contact Info</h3>
-<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none" width="380" height="320"/>
+<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none""/>
 <p>Feel free to connect with me if you have any question or follow me on twitter 😄 </p>
 
 <div style="display: inline_block"><br/>
