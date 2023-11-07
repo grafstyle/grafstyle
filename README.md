@@ -49,13 +49,8 @@
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
 <h4 align="left">📊 Github Stats</h4>
-<div style="display:flex; position:fixed; flex:auto;">
-  <div style="flex:1;">
-<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none"/>
-  </div>
+<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none"/>
 
-</div>
-<br>
 <br>
 <h3 align="left">Contact Info:</h3>
 <p>Feel free to connect with me if you have any question or follow me on twitter 😄 </p>
