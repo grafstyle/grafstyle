@@ -33,6 +33,7 @@
 </div>
   <br>
 <hr>
+<br>
 <h3 align="left">⭐ Learning platforms: </h3>
 <p>I highly recommend this platforms if you want to learn more about programming, networking and cloud computing:</p>
   <br>
