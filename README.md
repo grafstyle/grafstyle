@@ -43,8 +43,7 @@
 <a href="https://www.udacity.com"><img style="flex:1;" align="center alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE
 "></a>
 <a href="https://www.freecodecamp.org"><img style="flex:1;" align="center alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
-  </div>
-<a href="https://www.youtube.com"><img style="flex:1;" align="right" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com"><img style="flex:1;" align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   </div>
 <br>
 <hr>
