@@ -5,7 +5,7 @@
 
 <p>I am a computer science student, passionate about DevOps culture, experienced in AWS, and in the use of GitHub Actions for workflow automation. Streamlining development processes is one of my primary focuses. In addition to my technical knowledge, I am characterized by being a creative person passionate about design and art.</p>
 <br>
-##
+<h1></h1>
 <h3 align="left">Current status:</h3>
 <p>Currently, I am studying cybersecurity, networks, and Python simultaneously. I am interested and available to collaborate on projects involving the following technologies:</p>
 <br>
@@ -32,7 +32,7 @@
 <a href="https://expressjs.com/es/"><img style="display:grid;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </div>
   <br>
-<hr>
+<h1></h1>
 <br>
 <h3 align="left">⭐ Learning platforms: </h3>
 <p>I highly recommend this platforms if you want to learn more about programming, networking and cloud computing:</p>
@@ -46,15 +46,15 @@
 <a href="https://www.youtube.com"><img style="flex:1;" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   </div>
 <br>
-<hr>
+<h1></h1>
 <h3 align="center"> ‎ ‎ ‎ ‎ ‎ Contact Info‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Github Stats & Supported OS</h3>
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grafstyle&show_icons=true&theme=none""/>
 
 </div>
-<hr>
+<h1></h1>
 <p><i>Feel free to connect with me in LinkedIn if you have any questions</i>.<br>If you want to see a lit bit of my Art💖 go to my instagram or follow me on twitter I'll show you some memes ( ͡• ͜ʖ ͡• ) </p>
 <p> </p>
-<hr>
+<h1></h1>
 <p> </p>
 <p> </p>
 <div align="left">
